@@ -1,0 +1,99 @@
+{ "results":[
+			{
+				"eventDateName":"Agent Fresco",
+				"name":"Ásamt Axel Flóvent og Soffíu Björg",
+				"dateOfShow":"2016-04-15T20:30:00",
+				"userGroupName":"Gamla bíó",
+				"eventHallName":"Gamla Bíó",
+				"imageSource":"https://d30qys758zh01z.cloudfront.net/images/medium/1.9528.jpg"
+			},
+			{
+				"eventDateName":"Ensími og 200.000 Naglbítar",
+				"name":"Tónleikar",
+				"dateOfShow":"2016-04-15T22:00:00",
+				"userGroupName":"Bitra ehf",
+				"eventHallName":"Græni Hatturinn (Akureyri)",
+				"imageSource":"https://d30qys758zh01z.cloudfront.net/images/medium/1.9488.jpg"
+			},
+			{
+				"eventDateName":"Á vængjum söngsins",
+				"name":"Tónleikar  -  Diddú og Anna Guðný",
+				"dateOfShow":"2016-04-16T16:00:00",
+				"userGroupName":"Hannesarholt ses",
+				"eventHallName":"Hljóðberg (Hannesarholt)",
+				"imageSource":"https://d30qys758zh01z.cloudfront.net/images/medium/1.9526.jpg"
+			},
+			{
+				"eventDateName":"Slark Air Eftirpartý",
+				"name":"Eftirpartý",
+				"dateOfShow":"2016-04-16T21:00:00",
+				"userGroupName":"Mlh.is",
+				"eventHallName":"Bæjarbíó (Hafnarfirði)",
+				"imageSource":"https://d30qys758zh01z.cloudfront.net/images/medium/1.9557.jpg"
+			},
+			{
+				"eventDateName":"Helgi og Hljóðfæraleikararnir",
+				"name":"Tónleikar",
+				"dateOfShow":"2016-04-16T22:00:00",
+				"userGroupName":"Bitra ehf",
+				"eventHallName":"Græni Hatturinn (Akureyri)",
+				"imageSource":"https://d30qys758zh01z.cloudfront.net/images/medium/1.9542.jpg"
+			},
+			{
+				"eventDateName":"Heima",
+				"name":"Tónlistarhátíð",
+				"dateOfShow":"2016-04-20T18:30:00",
+				"userGroupName":"Mlh.is",
+				"eventHallName":"Hafnarfjörður",
+				"imageSource":"https://d30qys758zh01z.cloudfront.net/images/medium/1.9517.jpg"
+			},
+			{
+				"eventDateName":"Hið íslenska flugáhafnaball",
+				"name":"Spot Kópavogi",
+				"dateOfShow":"2016-04-20T21:00:00",
+				"userGroupName":"Svarti Kassinn",
+				"eventHallName":"Spot Kópavogi",
+				"imageSource":"https://d30qys758zh01z.cloudfront.net/images/medium/1.9458.jpg"
+			},
+			{
+				"eventDateName":"80's rokk partý",
+				"name":"Sing along með Rokkkór Íslands",
+				"dateOfShow":"2016-04-22T22:00:00",
+				"userGroupName":"Mlh.is",
+				"eventHallName":"Bæjarbíó (Hafnarfirði)",
+				"imageSource":"https://d30qys758zh01z.cloudfront.net/images/medium/1.9537.jpg"
+			},
+			{
+				"eventDateName":"Áfram veginn í 90 ár",
+				"name":"Vortónleikar",
+				"dateOfShow":"2016-04-23T15:00:00",
+				"userGroupName":"Karlakór Reykjavíkur",
+				"eventHallName":"Langholtskirkja",
+				"imageSource":"https://d30qys758zh01z.cloudfront.net/images/medium/1.9535.jpg"
+			},
+			{
+				"eventDateName":"Hammondhátíð 2016",
+				"name":"Hammondhátíð 2016 - laugardagur",
+				"dateOfShow":"2016-04-23T21:30:00",
+				"userGroupName":"Hammondhátíð Djúpavogs",
+				"eventHallName":"Hótel Framtíð (Djúpavogi)",
+				"imageSource":"https://d30qys758zh01z.cloudfront.net/images/medium/1.9457.jpg"
+			},
+			{
+				"eventDateName":"Todmobile",
+				"name":"Tónleikar",
+				"dateOfShow":"2016-04-23T22:00:00",
+				"userGroupName":"Bitra ehf",
+				"eventHallName":"Græni Hatturinn (Akureyri)",
+				"imageSource":"https://d30qys758zh01z.cloudfront.net/images/medium/1.9500.jpg"
+			},
+			{
+				"eventDateName":"Dúndurfréttir",
+				"name":"Tónleikar",
+				"dateOfShow":"2016-04-29T22:00:00",
+				"userGroupName":"Bitra ehf",
+				"eventHallName":"Græni Hatturinn (Akureyri)",
+				"imageSource":"https://d30qys758zh01z.cloudfront.net/images/medium/1.9532.jpg"
+			}
+			]
+		};
